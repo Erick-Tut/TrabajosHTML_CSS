@@ -1,0 +1,18 @@
+body{
+    background-color: cornflowerblue;
+    /*Este es un comentario*/
+    font-family: Helvatica, "Trebuchet MS", Verdana, sans-serif;
+}
+
+h1{
+    color: crimson
+}
+
+h1, h2{
+    text-align: center;
+}
+
+p{
+    color: cornsilk;
+}
+
